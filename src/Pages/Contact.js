@@ -4,6 +4,7 @@ import Navbar from "../Component/Navbar";
 import PageHero from "../Component/PageHero";
 
 const Contact = () => {
+    document.title = "Contact";
     return (
         <div>
             <Navbar/>

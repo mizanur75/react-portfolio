@@ -7,6 +7,7 @@ import ProjectCard from "../Component/ProjectCard";
 import Work from "../Component/Work";
 
 const Project = () => {
+    document.title = "Project";
     return (
         <div>
             <Navbar/>
